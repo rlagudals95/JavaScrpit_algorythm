@@ -1,0 +1,19 @@
+{
+  "name": "js_algorythm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlagudals95/JavaScrpit_algorythm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlagudals95/JavaScrpit_algorythm/issues"
+  },
+  "homepage": "https://github.com/rlagudals95/JavaScrpit_algorythm#readme"
+}
