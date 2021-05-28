@@ -1,4 +1,4 @@
-// 윤년 계산하기!
+// 윤년
 
 const readline = require("readline");
 
